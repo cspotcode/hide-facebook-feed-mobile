@@ -8,9 +8,9 @@ Open Edge browser on your phone.
 
 Go to "Extensions" and install "Tampermonkey." It'll ask you to enable Developer mode which is required to install extensions.
 
-Go to "Extensions" again, tap "Tampermonkey" to open the Tampermonkey menu.  Tap "Dashboard."
+Go to "Extensions" again, tap "Tampermonkey" to open the Tampermonkey menu.  Tap "Dashboard" to open Tampermonkey's UI.
 
-Go to "Utilities" and find "Import from URL"
+Go to the "Utilities" tab and find "Import from URL."
 
 Enter this URL and then tap "Install" and "Install" again to confirm:
 
