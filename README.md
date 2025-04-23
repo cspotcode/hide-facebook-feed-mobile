@@ -1,5 +1,13 @@
 # TamperMonkey script to hide the Facebook news feed on mobile
 
+## Why?
+
+Scrolling Facebook's news feed can waste hours of time. Yet we often want to periodically check Facebook on our phones because we receive important event and group notifications.
+
+This TamperMonkey script will hide the new feed when logging into Facebook on your mobile browser. You can still see notifications and check groups, and you can uninstall the Facebook app.
+
+> Want to hide the feed on your computer, not your phone?  Use [News Feed Eradicator](https://chromewebstore.google.com/detail/news-feed-eradicator/fjcldmjmjhkklehbacihaiopjklihlgg?hl=en&pli=1) instead.
+
 ## Installation
 
 *Tested on Edge browser on Android*
