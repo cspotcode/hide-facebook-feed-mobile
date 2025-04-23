@@ -4,7 +4,9 @@
 
 *Tested on Edge browser on Android*
 
-Go to "Extensions", install "Tampermonkey." It'll ask you to enable Developer mode which is required to install extensions.
+Open Edge browser on your phone.
+
+Go to "Extensions" and install "Tampermonkey." It'll ask you to enable Developer mode which is required to install extensions.
 
 Go to "Extensions" again, tap "Tampermonkey" to open the Tampermonkey menu.  Tap "Dashboard."
 
