@@ -10,7 +10,7 @@ This TamperMonkey script will hide the new feed when logging into Facebook on yo
 
 ## Installation
 
-*Tested on Edge browser on Android*
+*Last tested on Edge browser on Android, 2025-04-23*
 
 Open Edge browser on your phone.
 
