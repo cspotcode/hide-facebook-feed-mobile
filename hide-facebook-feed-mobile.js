@@ -23,6 +23,10 @@ function init() {
         body.tampermonkey-hide-feed div[data-mcomponent=MScreen]>div[data-type=vscroller]>div:nth-child(n+6) {
             display: none !important;
         }
+        /* Hides the "Open in app" button but also hides any comment UI; needs to be refined. */
+        div#screen-root>div>div.fixed-container.bottom {
+            /*display: none !important;*/
+        }
     `);
 }
 
