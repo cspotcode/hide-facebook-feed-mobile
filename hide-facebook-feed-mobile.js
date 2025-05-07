@@ -3,7 +3,7 @@
 // @version      2025-04-23
 // @description  
 // @author       cspotcode
-// @match        https://www.facebook.com/
+// @match        https://www.facebook.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=facebook.com
 // @grant        none
 // @run-at       document-end
